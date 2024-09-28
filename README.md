@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umair Ahmad 
 - 👀 I’m interested in web development and Machine learning.
-- 🌱 I’m currently learning django and machine learning and hopefully will...
+- 🌱 I’m currently working with django and learning ML. 
   
    
 
