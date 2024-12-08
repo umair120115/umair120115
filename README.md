@@ -1,7 +1,59 @@
-Hi! I am Umair Ahmad a doing Bachelor of Technology  in Computer Science.
-I have been working with django, react, restapi as a full stack developer and eager to dive into Machine Learning and AGI.
-I have got certification of Python with Data Science in which I have learn't about numpy, pandas, matplotlib and scikit.
-I have developed different projects using django, django channels, react, chartjs( a js library for visualization of chart ), selenium for automation, axios for api call from react frontend, for authentication - JWT .
+# 👋 Hi, I'm Umair Ahmad!
+
+*Full Stack AI Developer | Passionate Problem Solver | Aspiring Innovator*
+
+Welcome to my GitHub profile! I specialize in building dynamic full-stack applications with a focus on scalable backend architectures, real-time communication, and AI integration. Let's collaborate to create something extraordinary! 🚀
+
+---
+
+## 🧑‍💻 *About Me*
+- 🎓 *Final-Year B.Tech Student* (Computer Science) at *Ajay Kumar Garg Engineering College*, Ghaziabad.
+- 🌟 Skilled in *Django, **React, and **backend technologies* like *Django Channels*.
+- 🛠 Experienced in *AI tools*, API integration, and deploying scalable web applications.
+- 🧠 Always eager to *learn* and *explore* new technologies.
+
+---
+
+## 🔑 *Key Skills*
+- *Languages:* Python, JavaScript, HTML, CSS
+- *Frameworks & Libraries:* Django, Django REST Framework, React, Redux, NumPy, Pandas, Matplotlib
+- *Technologies:* Django Channels, JWT Authentication, RESTful APIs, Selenium, Docker
+- *Tools:* Git, Webpack, Nginx, Celery, Redis, Axios, VS Code
+- *Soft Skills:* Communication, Problem Solving, Teamwork, Time Management, Adaptability
+
+---
+
+## 🚀 *Projects*
+### 📱 [Social Media Application with Real-Time Features](https://github.com/umair120115/Deen)
+- Built a *Django-React* application with *friend requests, **real-time chats, and **notifications*.
+- Used *Redis* and *Docker* to ensure efficient real-time communication.
+- Integrated *Django Channels* for seamless *WebSocket handling*.
+
+### 📖 [PDF Reader](https://github.com/umair120115/Reader)
+- Developed a *React-DjangoRestframework* app for reading and annotating PDFs.
+- Integrated *ChatGPT API* for intelligent *on-page queries*.
+- Added *note-making functionality* with REST APIs.
+
+### 🎥 [Movie Ticket Booking System](https://github.com/umair120115/CodingBlocks)
+- Built a *React-Django* platform for booking movie tickets with visual seat selection.
+- Features *JWT authentication, **email confirmation, and **Stripe payment gateway*.
+- Used *Celery* and *Redis* for background tasks.
+
+---
+
+## 🏆 *Certifications*
+- *Data Science with Python* | Infosys Springboard | July 2024
+- *React* | Infosys Springboard | August 2024
+
+---
+
+## 📫 *Let's Connect*
+- *GitHub:* [github.com/umair120115](https://github.com/umair120115)
+- *LinkedIn:* [linkedin.com/in/umair-ahmad-793440241/](https://www.linkedin.com/in/umair-ahmad-793440241/)
+
+---
+
+✨ “Passionate about creating impactful solutions, one project at a time!” ✨
   
    
 
