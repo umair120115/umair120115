@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I specialize in building dynamic full-stack applic
 
 ## 🔑 *Key Skills*
 - *Languages:* Python, JavaScript, HTML, CSS
-- *Frameworks & Libraries:* Django, Django REST Framework, React, Redux, NumPy, Pandas, Matplotlib
+- *Frameworks & Libraries:* Django, Django REST Framework, ReactJs, Redux, NumPy, Pandas, Matplotlib, Langgraph and Langchain, Langsmith
 - *Technologies:* Django Channels, JWT Authentication, RESTful APIs, Selenium, Docker
 - *Tools:* Git, Webpack, Nginx, Celery, Redis, Axios, VS Code
 - *Soft Skills:* Communication, Problem Solving, Teamwork, Time Management, Adaptability
