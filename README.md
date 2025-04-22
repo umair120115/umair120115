@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in building dynamic full-stack applic
 
 ## 🧑‍💻 *About Me*
 - 🎓 *Final-Year B.Tech Student* (Computer Science) at *Ajay Kumar Garg Engineering College*, Ghaziabad.
-- 🌟 Skilled in *Django, **React, and **backend technologies* like *Django Channels*.
+- 🌟 Skilled in *Django,*FastAPI*, *React*, *Git* and *backend technologies* like *Django Channels*.
 - 🛠 Experienced in *AI tools*, API integration, and deploying scalable web applications.
 - 🧠 Always eager to *learn* and *explore* new technologies.
 
